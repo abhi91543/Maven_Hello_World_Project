@@ -4,9 +4,9 @@
 
   <groupId>Narasimhulu</groupId>
   <artifactId>abhishek</artifactId>
-  <version>19021999</version>
+  <version>19.02.1999</version>
 
-  <name>calculator_addition</name>
+  <name>Abhishek</name>
 
   <properties>
 	  <maven.compiler.source>1.6</maven.compiler.source>
